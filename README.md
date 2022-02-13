@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+#### I'm Kent Lorenz Daria
+
+I'm a CS student studying in West Visyas State University.
+
+
 <!--
 **RenzKlo/RenzKlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
