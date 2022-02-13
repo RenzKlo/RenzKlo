@@ -12,7 +12,7 @@ I'm a CS student studying in West Visayas State University.
   
   😄 Pronouns: He/Him  
   🏠 Living in: Capiz, PH  
-  🎲 Interested in: Video Games, Sci Fi, Tech, Graphics.  
+  🎲 Interested in: Video Games, Sci Fi, Tech, Graphics Design.  
     
 #### Socials:
 
