@@ -6,7 +6,7 @@ I'm a CS student studying in West Visayas State University.
 
 ### 🌱 I’m currently learning ...
 
-  C++, Python, and Front-End Web Development.
+  C++, Python, ReactJS and NextJS.
 
 ### More About me...
   
@@ -18,7 +18,7 @@ I'm a CS student studying in West Visayas State University.
 
 - Facebook: [Kent Lorenz Daria](https://www.facebook.com/kwert123)
 - Twitter: [@RenzKLo](https://twitter.com/RenzKLo)
-- Discord: [kwertzer#0631](discord.com/users/571551128945426452)
+- Discord: [RenzKLo](discord.com/users/571551128945426452)
 - Email: kentlorenz.daria@wvsu.edu.ph
   
 ---
