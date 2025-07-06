@@ -28,7 +28,7 @@ Tech used: Flutter, Flask, MongoDB, GPS routing
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height: 24px; width: 24px;" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 24px; width: 24px;" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="height: 24px; width: 24px;" alt="PHP" />
@@ -53,12 +53,12 @@ Tech used: Flutter, Flask, MongoDB, GPS routing
 ---
 
 ## 📬 Connect With Me
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/renzklo" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 24px; width: 24px;" alt="LinkedIn"/>
   </a>
   &nbsp;
-<a href="mailto:youremail@example.com">
+<a href="mailto:kentlorenz.daria@gmail.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" style="height: 24px; width: 24px;" alt="Email" />
 </a>
 </p>
