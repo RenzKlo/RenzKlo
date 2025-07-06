@@ -2,7 +2,7 @@
 🎓 Recent Computer Science graduate majoring in Artificial Intelligence  
 💡 I love building end-to-end apps and exploring how AI can improve real-world tools
 
----
+
 
 ## 💻 What I Do
 - 🤖 AI agents, LLM copilots, and intelligent chatbots  
@@ -10,7 +10,7 @@
 - 🧠 Backend engineering (Python, PHP, MySQL)  
 - 📊 Learning scalable data engineering systems
   
----
+
 
 ## 🚀 Project Spotlight
 ### 🛰️ Publink  
@@ -18,13 +18,13 @@ A routing service app that helps commuters plan optimal jeepney rides
 🏆 **Best Thesis Award**  
 Tech used: Flutter, Flask, MongoDB, GPS routing
 
----
+
 
 ## 🌐 Portfolio
 📍 [**renzklo.com**](https://renzklo.com) — My personal website  
 *💻 Built with: Next.js · Tailwind CSS · Framer Motion*
 
----
+
 
 ## 🛠️ Tech Stack & Tools
 
@@ -42,7 +42,7 @@ Tech used: Flutter, Flask, MongoDB, GPS routing
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height: 24px; width: 24px;" alt="Git" />
 </div>
 
----
+
 
 ## 📈 Currently Learning
 - 🔧 Advanced backend patterns and testing  
@@ -50,7 +50,7 @@ Tech used: Flutter, Flask, MongoDB, GPS routing
 - 🧱 Clean architecture  
 - 🛢️ **Data engineering** and workflow automation
   
----
+
 
 ## 📬 Connect With Me
 <p align="left">
