@@ -18,7 +18,9 @@ Tech used: Flutter, Flask, MongoDB, GPS routing
 📍 [**renzklo.com**](https://renzklo.com) — My personal website  
 *💻 Built with: Next.js · Tailwind CSS · Framer Motion*
 ---
+
 ## 🛠️ Tech Stack & Tools
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height: 24px; width: 24px;" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 24px; width: 24px;" alt="JavaScript" />
@@ -32,6 +34,7 @@ Tech used: Flutter, Flask, MongoDB, GPS routing
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="height: 24px; width: 24px;" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height: 24px; width: 24px;" alt="Git" />
 </div>
+
 ---
 ## 📈 Currently Learning
 - 🔧 Advanced backend patterns and testing  
