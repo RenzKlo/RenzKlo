@@ -1,22 +1,29 @@
 # 👋 Hi, I'm Kent Lorenz (renzklo)
 🎓 Recent Computer Science graduate majoring in Artificial Intelligence  
 💡 I love building end-to-end apps and exploring how AI can improve real-world tools
+
 ---
+
 ## 💻 What I Do
 - 🤖 AI agents, LLM copilots, and intelligent chatbots  
 - 🧩 Full-stack development (Next.js, Flutter, Flask, MongoDB)  
 - 🧠 Backend engineering (Python, PHP, MySQL)  
-- 📊 Learning scalable data engineering systems  
+- 📊 Learning scalable data engineering systems
+  
 ---
+
 ## 🚀 Project Spotlight
 ### 🛰️ Publink  
 A routing service app that helps commuters plan optimal jeepney rides  
 🏆 **Best Thesis Award**  
 Tech used: Flutter, Flask, MongoDB, GPS routing
+
 ---
+
 ## 🌐 Portfolio
 📍 [**renzklo.com**](https://renzklo.com) — My personal website  
 *💻 Built with: Next.js · Tailwind CSS · Framer Motion*
+
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -36,12 +43,15 @@ Tech used: Flutter, Flask, MongoDB, GPS routing
 </div>
 
 ---
+
 ## 📈 Currently Learning
 - 🔧 Advanced backend patterns and testing  
 - 🧠 Fine-tuning and deploying LLMs  
 - 🧱 Clean architecture  
-- 🛢️ **Data engineering** and workflow automation  
+- 🛢️ **Data engineering** and workflow automation
+  
 ---
+
 ## 📬 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/renzklo" target="_blank">
